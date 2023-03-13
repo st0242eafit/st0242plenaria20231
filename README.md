@@ -8,5 +8,5 @@
 # Semana 8 - Strings (cadenas)
 # [Ejemplos de arreglos](semana08)
 #
-# Semana 8 - Strings (cadenas)
+# Semana 9 - Strings (cadenas)
 # [Ejemplos de tipos de datos String en Java](semana09)
