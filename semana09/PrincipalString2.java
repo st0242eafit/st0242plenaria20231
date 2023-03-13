@@ -2,7 +2,7 @@
 public class PrincipalString2
 {
     public static void main(String args[]) {
-        String msg = "Bienvenida(o)s a la Plenaria";
+        String msg = new String("Bienvenida(o)s a la Plenaria");
         System.out.println(msg);
         cambio(msg);
         System.out.println(msg);
