@@ -1,2 +1,9 @@
-# st0242plenaria20231
-# st0242plenaria20231
+# Universidad EAFIT
+# ST0242 Fundamentos de programación
+# 2023-1
+# Plenarias
+#
+# Profesores: Helmuth Trefftz - htrefftz@eafit.edu.co - Edwin Montoya - emontoya@eafit.edu.co
+#
+# Semana 8 - Strings (cadenas)
+# [Ejemplos de tipos de datos String en Java](semana08)
